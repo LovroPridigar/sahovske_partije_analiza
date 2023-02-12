@@ -41,3 +41,5 @@ Datoteke v repozitoriju vsebujejo:
 * analiza_podatkov.ipynb -pandas datoteka dejanske analize podatkov
 * igralci.csv, partije.csv -obdelani podatki
 * v mapah seznam_igralcev in zbrani_podatki -html datoteke
+* dodatno -> html datoteke, ki vsebujejo informacije o igralcih
+* obdelani_podatki vsebujejo (igralci.csv in partije.csv)
