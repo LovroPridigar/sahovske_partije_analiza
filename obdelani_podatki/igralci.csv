@@ -1,0 +1,160 @@
+ime,rating,mesto,drzava,age,total_games,winrate_win,winrate_draw,winrate_loss
+Magnus Carlsen,2852,1,Norway,32,3651,46,39,15
+Ian Nepomniachtchi,2793,2,Russia,32,2855,39,41,20
+Ding Liren,2788,3,China,30,1668,34,48,18
+Alireza Firouzja,2785,4,France,19,1310,50,28,22
+Anish Giri,2780,5,Netherlands,28,2614,31,50,19
+Hikaru Nakamura,2768,6,United,35,4692,48,35,17
+Fabiano Caruana,2766,7,United,30,3167,40,38,22
+Wesley So,2766,7,United,29,2773,38,46,16
+Viswanathan Anand,2754,9,India,53,4179,36,50,14
+Sergey Karjakin,2747,10,Russia,33,3154,36,45,19
+Teimour Radjabov,2747,10,Azerbaijan,35,2238,30,53,17
+Alexander Grischuk,2745,12,FIDE,39,3914,38,44,18
+Leinier Dominguez Perez,2743,13,United,39,2241,34,47,19
+Shakhriyar Mamedyarov,2740,14,Azerbaijan,37,3584,38,41,21
+Richard Rapport,2740,14,Romania,26,1581,42,38,20
+Maxime Vachier-Lagrave,2737,16,France,32,3493,38,45,17
+Levon Aronian,2736,17,United,40,3883,34,47,19
+Nodirbek Abdusattorov,2734,18,Uzbekistan,18,1187,46,30,24
+Vidit Santosh Gujrathi,2730,19,India,28,1819,41,40,19
+Yu Yangyi,2729,20,China,28,1768,42,44,14
+Jan-Krzysztof Duda,2729,20,Poland,24,1795,43,35,22
+Dmitry Andreikin,2729,20,FIDE,33,2892,46,38,16
+Veselin Topalov,2728,23,Bulgaria,47,2646,33,44,23
+Le Quang Liem,2728,23,Vietnam,31,2124,44,37,19
+Parham Maghsoodloo,2728,23,Iran,22,1484,49,29,22
+Nikita Vitiugov,2723,26,FIDE,36,1944,38,48,14
+Wang Hao,2722,27,China,33,1957,39,43,18
+Wei Yi,2722,27,China,23,1393,38,43,19
+Gukesh D,2718,29,India,16,835,43,28,29
+Sanan Sjugirov,2712,30,Russia,30,2288,45,34,21
+Samuel Shankland,2710,31,United,31,1325,36,42,22
+Francisco Vallejo Pons,2710,31,Spain,40,2625,39,40,21
+Daniil Dubov,2708,33,Russia,26,2190,42,38,20
+Pavel Eljanov,2706,34,Ukraine,39,2151,39,41,20
+Hans Moke Niemann,2706,34,United,19,868,44,24,32
+Pentala Harikrishna,2705,36,India,36,2443,35,47,18
+Ray Robson,2702,37,United,28,1096,43,33,24
+Vladislav Artemiev,2701,38,Russia,24,1851,47,37,16
+Arjun Erigaisi,2701,38,India,19,1026,46,30,24
+Bogdan-Daniel Deac,2700,40,Romania,21,1390,48,32,20
+Gabriel Sargissian,2699,41,Armenia,39,1924,38,48,14
+Bu Xiangzhi,2698,42,China,37,1802,39,48,13
+Evgeny Tomashevsky,2694,43,Russia,35,1759,33,54,13
+Jeffery Xiong,2692,44,United,22,1807,47,31,22
+Vincent Keymer,2690,45,Germany,18,998,48,24,28
+Praggnanandhaa Rameshbabu,2690,45,India,17,1040,45,31,24
+Michael Adams,2688,47,England,51,3500,38,47,15
+Bassem Amin,2688,47,Egypt,34,1436,48,30,22
+Sam Sevian,2687,49,United,22,1253,41,36,23
+Jorden van Foreest,2687,49,Netherlands,23,1663,42,32,26
+Radoslaw Wojtaszek,2686,51,Poland,36,2302,41,44,15
+Kirill Alekseenko,2686,51,FIDE,25,1456,48,27,25
+Haik Martirosyan,2686,51,Armenia,22,869,45,33,22
+David Navara,2685,54,Czech,37,2768,47,34,19
+Alexandr Predke,2684,55,FIDE,29,1316,45,33,22
+Jules Moussard,2684,55,France,28,1080,50,26,24
+Peter Svidler,2683,57,Russia,46,3696,35,48,17
+David Anton Guijarro,2679,58,Spain,27,1594,44,37,19
+Rustam Kasimdzhanov,2678,59,Uzbekistan,43,1787,39,44,17
+Zoltan Almasi,2677,60,Hungary,46,2180,39,45,16
+Saleh Salem,2677,60,United,30,1619,49,24,27
+Amin Tabatabaei,2677,60,Iran,22,1073,45,30,25
+Andrey Esipenko,2675,63,FIDE,20,1336,42,38,20
+Vladimir Fedoseev,2674,64,FIDE,27,2266,47,29,24
+Igor Kovalenko,2674,64,Ukraine,34,1930,54,24,22
+Li Chao,2672,66,China,33,63,48,32,20
+Boris Gelfand,2670,67,Israel,54,3756,30,52,18
+David Howell,2670,67,England,32,2137,48,31,21
+Nihal Sarin,2670,67,India,18,1225,41,37,22
+Narayanan Sunilduth Lyna,2669,70,India,25,1063,47,34,19
+Alexey Sarana,2668,71,FIDE,23,2318,50,25,25
+Ni Hua,2667,72,China,39,1598,40,46,14
+Andrei Volokitin,2667,72,Ukraine,36,1815,39,40,21
+Grigoriy Oparin,2667,72,Russia,25,1936,41,39,20
+Alexei Shirov,2666,75,Spain,50,4465,43,40,17
+Evgeniy Najer,2666,75,Russia,45,2207,41,39,20
+Arkadij Naiditsch,2665,77,Azerbaijan,37,2677,45,33,22
+Vasyl Ivanchuk,2664,78,Ukraine,53,4602,37,46,17
+Gata Kamsky,2664,78,United,48,3566,42,40,18
+Matthias Bluebaum,2663,80,Germany,25,1698,46,33,21
+Maxim Matlakov,2662,81,Russia,31,2224,42,41,17
+Kirill Shevchenko,2662,81,Ukraine,20,792,43,36,21
+Gadir Guseinov,2661,83,Azerbaijan,36,1892,44,36,20
+Ernesto Inarkiev,2661,83,Russia,37,2138,39,39,22
+Ivan Saric,2661,83,Croatia,32,2025,44,37,19
+Javokhir Sindarov,2661,83,Uzbekistan,17,517,45,32,23
+Nils Grandelius,2660,87,Sweden,29,2012,44,37,19
+Ivan Cheparinov,2659,88,Bulgaria,36,2306,42,41,17
+Ma Qun,2659,88,China,32,475,41,45,14
+Thai Dai Van Nguyen,2659,88,Czech,22,886,32,46,22
+Jaime Santos Latasa,2657,91,Spain,26,868,46,39,15
+Aryan Tari,2656,92,Norway,23,1770,42,33,25
+Ruslan Ponomariov,2655,93,Ukraine,39,2293,35,46,19
+Illya Nyzhnyk,2654,94,Ukraine,26,1116,46,39,15
+Alexander Donchenko,2654,94,Germany,24,1780,43,36,21
+Etienne Bacrot,2653,96,France,40,3333,40,42,18
+Vladimir Malakhov,2650,97,FIDE,42,2039,42,45,13
+Jorge Cori,2650,97,Peru,27,1023,52,27,21
+Anton Korobov,2649,99,Ukraine,37,2319,46,36,18
+Yuriy Kryvoruchko,2649,99,Ukraine,36,1368,40,48,12
+Loek van Wely,2648,101,Netherlands,50,4208,40,37,23
+Dariusz Swiercz,2646,102,United,28,1719,43,35,22
+Rauf Mamedov,2646,102,Azerbaijan,34,2372,41,40,19
+Tamir Nabaty,2646,102,Israel,32,1056,52,29,19
+Hrant Melkumyan,2645,105,Armenia,33,1772,47,32,21
+Nguyen Ngoc Truong Son,2645,105,Vietnam,33,1269,41,44,15
+Awonder Liang,2643,107,United,19,993,42,30,28
+Aleksandar Indjic,2641,108,Serbia,27,1681,51,26,23
+Hou Yifan,2638,109,China,28,1955,41,33,26
+Markus Ragger,2638,109,Austria,35,1824,38,47,15
+Alan Pichot,2638,109,Argentina,24,1346,46,27,27
+Sergei Rublevsky,2637,112,Russia,48,1979,39,44,17
+Sergey A Fedorchuk,2637,112,Ukraine,42,2309,49,33,18
+Eduardo Iturrizaga Bonelli,2636,114,Spain,33,1760,50,35,15
+Erwin l&#039;Ami,2636,114,Netherlands,,,,,
+Aleksandr Rakhmanov,2635,116,Russia,33,1893,41,40,19
+S P Sethuraman,2635,116,India,29,1737,48,29,23
+Vasif Durarbayli,2635,116,Azerbaijan,30,1324,45,31,24
+Manuel Petrosyan,2634,119,Armenia,24,993,41,38,21
+Benjamin Gledura,2633,120,Hungary,23,964,41,38,21
+Pouya Idani,2633,120,Iran,28,924,44,38,18
+Maksim Chigaev,2632,122,Russia,26,2087,49,31,20
+Alexander Areshchenko,2631,123,Ukraine,36,1514,44,41,15
+Luke McShane,2631,123,England,39,1703,44,34,22
+Jon Ludvig Hammer,2631,123,Norway,32,1456,44,36,20
+Shant Sargsyan,2630,126,Armenia,21,671,45,39,16
+Nodirbek Yakubboev,2630,126,Uzbekistan,21,695,50,32,18
+Nijat Abasov,2629,128,Azerbaijan,27,1008,40,43,17
+Ferenc Berkes,2629,128,Hungary,37,1826,41,45,14
+Mustafa Yilmaz,2629,128,Turkey,30,1550,45,33,22
+Luka Lenic,2629,128,Slovenia,35,1346,37,48,15
+Ioannis Papaioannou,2628,132,Greece,47,803,40,46,14
+Raunak Sadhwani,2627,133,India,17,1346,48,25,27
+Ivan Popov,2627,133,Russia,33,1387,45,38,17
+Karthikeyan Murali,2626,135,India,24,863,47,31,22
+Alexander Riazantsev,2626,135,Russia,38,2283,39,42,19
+Anton Demchenko,2625,137,Russia,36,1628,50,27,23
+Alexander Motylev,2624,138,Russia,44,2271,39,45,16
+Bartosz Socko,2624,138,Poland,45,2732,44,38,18
+Vladislav Kovalev,2623,140,FIDE,29,2046,46,32,22
+Cristobal Henriquez Villagra,2623,140,Chile,27,640,50,29,21
+Yaroslav Zherebukh,2623,140,United,30,958,45,32,23
+Laurent Fressinet,2622,143,France,42,2677,40,43,17
+Sandro Mareco,2622,143,Argentina,35,1485,51,35,14
+Maxim Rodshtein,2622,143,Israel,34,1391,42,42,16
+Karen H Grigoryan,2621,146,Armenia,28,1218,54,30,16
+Aram Hakobyan,2620,147,Armenia,21,871,44,32,24
+Vladimir Onischuk,2619,148,Ukraine,32,1471,50,28,22
+Krishnan Sasikiran,2619,148,India,42,2201,44,39,17
+Daniele Vocaturo,2619,148,Italy,34,1225,47,31,22
+Daniel Naroditsky,2618,151,United,27,1330,47,34,19
+Jan Gustafsson,2618,151,Germany,43,1443,39,48,13
+Yuriy Kuzubov,2618,151,Ukraine,33,1818,44,39,17
+Gawain Jones,2617,154,England,35,2581,49,32,19
+Samvel Ter-Sahakyan,2616,155,Armenia,29,1401,47,35,18
+Rasmus Svane,2616,155,Germany,25,1804,47,31,22
+Mateusz Bartel,2615,157,Poland,38,2367,43,36,21
+Jonas Buhl Bjerre,2615,157,Denmark,19,584,39,35,26
+Sergei Movsesian,2615,157,Armenia,45,3096,42,42,16
